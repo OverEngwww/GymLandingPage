@@ -1,18 +1,20 @@
 
-# Repositorio de base para Página Web
+# Repositorio de base para Landing Page 
 
-Este repositorio contiene archivos HTML que te servirán de base para poder realizar tu proyecto CSS de cuatro secciones distintas de una página web. Las secciones incluidas son "Home", "Misiones", "Audiovisuales" y "Contacto".
+Este repositorio contiene archivos HTML y CSS que te servirán de base para poder realizar tu proyecto de página web con responsive design. Las secciones incluidas son "Inicio", "Servicios", "Clases", "Planes" y "Comentarios"
 
 ## Estructura del Repositorio
 
--   `home.html`: Archivo con la base estructural para la sección de "Home".
--   `misiones.html`: Archivo con la base estructural para la sección de "Misiones".
--   `audiovisuales.html`: Archivo con la base estructural para la sección de "Audiovisuales".
--   `contacto.html`: Archivo con la base estructural para la sección de "Contacto".
+-   `index.html`: Archivo con la base estructural para todo el proyecto en general.
+-   `Seccion Inicio`: Seccion con la base estructural de la sección de "Inicio".
+-   `Seccion Servicios`: Seccion con la base estructural de la sección de "Servicios".
+-   `Seccion Clases`: Seccion con la base estructural de la sección de "Clases".
+-   `Seccion Planes`: Seccion con la base estructural de la sección de "Planes".
+-   `Seccion Comentarios`: Seccion con la base estructural de la sección de "Comentarios".
 
 ## Instrucciones de Uso
 
-Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone "Aqui Va el Link del Repositorio".git en tu consola
+Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://overengwww.github.io/GymLandingPage.git en tu consola
 
 ## Contribuciones
 
