@@ -1,7 +1,7 @@
 
 # Repositorio de base para Landing Page 
 
-Este repositorio contiene archivos HTML y CSS que te servirán de base para poder realizar tu proyecto de página web con responsive design. Las secciones incluidas son "Inicio", "Servicios", "Clases", "Planes" y "Comentarios"
+Este repositorio contiene archivos HTML, CSS y enlaces de BOOTSTRAP que te servirán de base para poder realizar tu proyecto de página web con responsive design. Las secciones incluidas son "Inicio", "Servicios", "Clases", "Planes" y "Comentarios"
 
 ## Estructura del Repositorio
 
