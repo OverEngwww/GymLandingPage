@@ -14,7 +14,7 @@ Este repositorio contiene archivos HTML, CSS y enlaces de BOOTSTRAP que te servi
 
 ## Instrucciones de Uso
 
-Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://overengwww.github.io/GymLandingPage.git en tu consola o si deseas visualizar el website ingresa en el link https://overengwww.github.io/RobotRtr/
+Descargá el repositorio en una carpeta y comenzá a colocarle estilos. Lo pudes hacer tocando el botón < Code > y luego tocando "Download ZIP" o haciendo git clone https://overengwww.github.io/GymLandingPage.git en tu consola o si deseas visualizar el website ingresa en el link https://overengwww.github.io/GymLandingPage/
 
 ## Contribuciones
 
